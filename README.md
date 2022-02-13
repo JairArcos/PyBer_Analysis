@@ -22,5 +22,5 @@ Table 1. Datafrase analysis.
 - It would be great to include on this analysis, rides cancelled, to see if Urban city type is getting higher cancelation due to its less quatity of drivers, and vice versa with Rural city type. 
 - At the end of Feb 2019 it is observed high total fare by city type in all cities, take a look on what could be different in that time, was it due to a holliday? due to an event that affect those three city type?.. etc. 
 
-<img width="742" alt="image" src="https://user-images.githubusercontent.com/96214761/153550690-ca3d12aa-983b-4361-b6de-b84667d758ac.png">
+<img width="815" alt="image" src="https://user-images.githubusercontent.com/96214761/153762984-7c556ecd-9478-412e-b771-5e0e3bb3442d.png">
 Graph 1. Total Fare by City Type 2019.
